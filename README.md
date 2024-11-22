@@ -1,14 +1,28 @@
-- 👋 Hi, I’m spshushil
-- 👀 I’m interested in web design and application development
-- - 🌱 I’m currently learning computer science and engineering @ Adhi College of Engineering and Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through
-![button_linkedin](https://github.com/user-attachments/assets/1c6ef3b7-518c-4e5e-8c71-735a8b712d08)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi there 👋 It's me SP SHUSHIL
+
+Computer Science Engineering Student <br>
+STUDENT @ Adhi college of engineering and technology
+<img align="right" width="370" height="290" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+- 🔭 Here's my [professional profile](https://spshushil004.wixsite.com/cyberbeam)                                                 
+- 🌱 I’m currently learning DSA and MERN
+- 👯 I’m looking to collaborate on ML/AI
+- 🤔 I’m looking for my higher studies in abroad
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sp-shushil-876149230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 😄 Pronouns: Techie
+- Graduated in **Master degree** at Hindi ( MA hindi ) <br>
+![Dakshina_Bharat_Hindi_Prachar_Sabha_logo-removebg-preview](https://github.com/user-attachments/assets/d29ba48d-9bad-4acf-aaa8-a99eede93357)
+
+- ⚡ Fun fact: I know hindi but can't speak 😄
+
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
+
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg"/> 
 
 
-<!---
-spshushil/spshushil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Workspace Spec
+<img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4WBVIZAJ6ossI_wnz7i65Xt5jNH85NLUPLRwXDDRYEmtj6f9ECM4ZDFAq3inwumWm2U&usqp=CAU"> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
