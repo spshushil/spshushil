@@ -1,10 +1,10 @@
 ## Hi there 👋 It's me SP SHUSHIL
 
 Computer Science Engineering Student <br>
-STUDENT @ Adhi college of engineering and technology <br>
+STUDENT @ Adhi College of Engineering and Technology <br>
 <img align="right" width="370" height="290" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 - 🔭 Here's my [professional profile](https://spshushil004.wixsite.com/cyberbeam)                                                 
-- 🌱 I’m currently learning DSA and MERN
+- 🌱 I’m currently learning cloud computing and MERN
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for my higher studies in abroad
 - 💬 Ask me about Tech
@@ -14,7 +14,7 @@ STUDENT @ Adhi college of engineering and technology <br>
 - Graduated in **Master degree** at Hindi ( MA hindi ) <br>
 ![Dakshina_Bharat_Hindi_Prachar_Sabha_logo-removebg-preview](https://github.com/user-attachments/assets/d29ba48d-9bad-4acf-aaa8-a99eede93357)
 
-- ⚡ Fun fact: I know hindi but can't speak 😄
+- ⚡ Fun fact: I know Hindi but can't speak 😄
 - Event organizer for both **TECHNICAL AND ENJOYMENT** { national level symposium and college cultural } <br>
 <img height="50" width="50" src="https://cebroid.vercel.app/static/media/Cebroid.8be58ecbabd1e4d1e540.png" /><br>
 
