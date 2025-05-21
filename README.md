@@ -11,7 +11,7 @@ STUDENT @ Adhi College of Engineering and Technology <br>
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sp-shushil-876149230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: Techie
-- Graduated in **Master degree** at Hindi ( BA hindi ) <br>
+- Graduated in **Degree** at Hindi ( BA hindi ) <br>
 ![Dakshina_Bharat_Hindi_Prachar_Sabha_logo-removebg-preview](https://github.com/user-attachments/assets/d29ba48d-9bad-4acf-aaa8-a99eede93357)
 
 - ⚡ Fun fact: I know Hindi but can't speak 😄
