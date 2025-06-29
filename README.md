@@ -12,7 +12,7 @@ STUDENT @ Adhi College of Engineering and Technology <br>
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sp-shushil-876149230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: Techie
 - Graduated in **Degree** at Hindi ( BA hindi ) <br>
-![Dakshina_Bharat_Hindi_Prachar_Sabha_logo-removebg-preview](https://github.com/user-attachments/assets/d29ba48d-9bad-4acf-aaa8-a99eede93357)
+  <img height="50" width="50" src="https://github.com/user-attachments/assets/d29ba48d-9bad-4acf-aaa8-a99eede93357"/>
 
 - ⚡ Fun fact: I know Hindi but can't speak 😄
 - Event organizer (STUDENT SECRETARY) for both **TECHNICAL AND ENJOYMENT** { national level symposium and college cultural } <br>
@@ -20,7 +20,7 @@ STUDENT @ Adhi College of Engineering and Technology <br>
 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://static.vecteezy.com/system/resources/thumbnails/048/759/334/small_2x/canva-transparent-icon-free-png.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png"/>  <img height="50" width="50" src="https://i2.wp.com/blog.rimuhosting.com/wp-content/uploads/2014/07/centos_logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://static.vecteezy.com/system/resources/thumbnails/048/759/334/small_2x/canva-transparent-icon-free-png.png"/> 
 
 
 ### 💻 Workspace Spec
