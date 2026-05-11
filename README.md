@@ -5,7 +5,7 @@ STUDENT @ Adhi College of Engineering and Technology <br>
 <img align="right" width="370" height="290" src="https://cdn.axalize.vn/media/content/images/cloud-computing.jpg">
 - 🔭 Here's my [professional profile](https://portfolio-shushil.vercel.app/)                                                 
 - 🌱 I’m currently learning cloud computing and MERN
-- 👯 I’m looking to collaborate on CLOUD/DATA SCIENCE
+- 👯 I’m looking to collaborate on CLOUD/AWS/DevOps Engonnering
 - 🤔 I’m looking for my higher studies 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
